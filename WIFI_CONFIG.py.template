@@ -1,3 +1,4 @@
+# Reaname to WIFI_CONFIG.py and edit to match your wifi settings
 SSID = "SSID"
 PSK = "PASSWORD"
 COUNTRY = "GB"
