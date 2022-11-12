@@ -1,0 +1,3 @@
+SSID = "SSID"
+PSK = "PASSWORD"
+COUNTRY = "GB"
